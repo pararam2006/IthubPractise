@@ -1,0 +1,19 @@
+{
+    "torrents" : [
+        "https://itorrents-igruha.org/",
+        "http://rutor.info",
+        "https://nnmclub.to",
+        "https://tapochek.net"
+    ],
+    "videohosting": [
+        "https://www.youtube.com/",
+        "https://www.twitch.tv/",
+        "https://rutube.ru/"
+    ],
+    "search": [
+        "https://www.google.com/",
+        "https://ya.ru/",
+        "https://www.bing.com/",
+        "https://duckduckgo.com/"
+    ]
+}

@@ -1,0 +1,14 @@
+input {
+    font-size: 30px;
+}
+
+.input-container {
+    margin-bottom: 100px;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+

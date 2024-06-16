@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Практика 2 курс</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+    <div class="main-container">
+        <div class="first-container">
+            <div class="input-container">
+                <h1>Введите ключ для поиска URL</h1>
+                <form id="form" method="post">
+                    <input type="text" name="inputKeyword" id="input">
+                    <input type="submit" name="send" id="submit" value="Найти">
+                </form>
+            </div>
+            <div class="server-container">
+                <h1>Скачанные сайты</h1>
+                <ul id="server-list"></ul>
+            </div>
+        </div>
+        <div class="downloaded-container">
+            <h1>Сайты по запросу</h1>
+            <ul id="downloaded-list"></ul>
+        </div>
+    </div>
+    <script src="script.js" type="text/javascript"></script>
+</body>
+</html>
